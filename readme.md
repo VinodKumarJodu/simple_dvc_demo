@@ -22,3 +22,7 @@ git branch -M main
 git remote add origin https://github.com/VinodKumarJodu/simple_dvc_demo.git
 
 git push -u origin main
+
+git add . && git commit -m "Oneliner update for readme.md"
+
+git push -u origin main
