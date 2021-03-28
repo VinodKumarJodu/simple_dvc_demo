@@ -1,6 +1,5 @@
 #local package install
 -e .
-
 #external package install
 dvc
 dvc[gdrive]
@@ -9,3 +8,6 @@ pandas
 PyYAML
 pytest
 tox
+flake8
+flask
+gunicorn
